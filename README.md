@@ -20,7 +20,6 @@ A browser-based Snake game built with vanilla JavaScript and the Canvas API. No 
 - 8 progressive speed levels
 - Particle effects on eat and death
 - Screen shake, motion trail, and animated food
-- Fully responsive — adapts to any screen size
 - Mobile support via touch swipe
 - Single file — no npm, no build tooling required
 
